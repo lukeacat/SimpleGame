@@ -38,7 +38,6 @@ server.on('connection', async function (socket) {
     });
 
     socket.on('data', function(data) {
-        socket.write("Testing aaaaaaaaaaaaaaaa Fortnite epic YAH")
         const client = connections[socket.user.id];
         let message;
         console.log(data.toString())
