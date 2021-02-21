@@ -1,0 +1,11 @@
+{
+  "name": "stg",
+  "version": "1.0.0",
+  "description": "Chill game to chill in. Also chatting. That' too. Yeah too.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Stfu plz\""
+  },
+  "author": "luke",
+  "license": "MIT"
+}
